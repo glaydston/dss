@@ -1,0 +1,20 @@
+/*
+  HeapOverrun.cpp
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+/*
+  Very flawed class to demonstrate a problem
+*/
+
+class BadStringBuf
+{
+	public:
+		BadStringBuf(void)
+		
+{
+		}
+}
